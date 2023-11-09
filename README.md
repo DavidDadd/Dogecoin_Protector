@@ -51,5 +51,6 @@ Secure your cryptocurrency transactions today with Dogecoin_Protector.
 **A5:** Deleting the hash.txt file, if you have already configured your pin based on the application-generated pin, means that you will lose the ability to retrieve your pin code. The most advisable course of action would be to attempt to restore the hash.txt file or, if necessary, reset your cold wallet using your seed phrase. Please exercise extreme caution when managing the hash.txt file.
 
 **Q6:** Where can I see the found Pin codes?
+
 **A6:** In the result.txt file
 
