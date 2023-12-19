@@ -53,7 +53,7 @@ Secure your cryptocurrency transactions today with Dogecoin_Protector.
 
 **A5:** Deleting the chain.txt file, if you have already configured your pin(s) based on the application-generated pin(s), means that you will lose the ability to retrieve your pin(s). The most advisable course of action would be to attempt to restore the chain.txt file or, if necessary, reset your cold wallet using your seed phrase. Please exercise extreme caution when managing the chain.txt file. Modifying chain.txt file may corrupt the file and result in searching failure.
 
-**Q6:** Where can I see the found Pin(s)?
+**Q6:** Where can I see the found Pin(s)/Passphrase?
 
 **A6:** In the result.txt file
 
