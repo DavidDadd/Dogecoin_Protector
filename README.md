@@ -48,7 +48,7 @@ The version of Dogecoin Protector in the video is not latest version
 
 **Q4:** Does the application steal my cryptocurrency?
 
-**A4:** Certainly not. The application is designed with your security in mind; it does not have the capability to access your pin code or the seed phrase of your cold wallet. Its function is solely to generate and retrieve a random pin code, giving you complete discretion to alter it as you see fit. 
+**A4:** Certainly not. The application is designed with your security in mind; it does not have the capability to access your pin code or the seed phrase of your cold wallet. Its function is solely to generate and retrieve a random pin/passphrase, giving you complete discretion to alter it as you see fit. 
 
 **Q5:** What are the consequences of deleting the chain.txt file created by the application?
 
