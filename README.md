@@ -9,13 +9,16 @@ Experience a seamless and secure way to manage your digital currency needs with 
 
 *Donation-Powered Activation*: To fully activate the product, a minimal donation is requested in Dogecoin, harnessing the power of cryptocurrency to maintain the integrity and continuous development of the tool.
 
-*Secure Pin/Passphrase Creation*: Generate random and secure pins/passphrases that can be used for your digital wallets. Our proprietary algorithm ensures that your pin/passphrase is not only random but also resilient against common security threats.
+*Secure Pin/Passphrase Creation*: Generate random and secure pins/passphrases that can be used for your digital wallets. Our algorithm ensures that your pin/passphrase is not only random but also resilient against common security threats.
 
 *Enhanced Pin/Passphrase Security*: Once your pin/passphrase is generated, it is transformed into a secure hash value using advanced cryptographic methods, reducing the risk of compromising your wallet's security.
 
 *Pin/passphrase Recovery Service*: Once you forget your pin/passphrase, our tool includes a sophisticated retrieval system that can deduce your original pin/passphrase from the stored hash, ensuring you never lose access to your digital funds.
 
 *Performance Metrics*: For the technically curious, our tool can provide insights into the estimated time for pin/passphrase retrieval, giving you an understanding of the process's efficiency.
+
+*User friendly GUI*: Our application's user-friendly GUI provides a seamless and intuitive interface, empowering users to easily navigate, access essential features, and interact with our robust functionality. Creating an enjoyable user experience.
+
 
 This program is an essential addition to any cryptocurrency user's toolkit, from the novice enthusiast to the seasoned trader. It prioritizes user-friendliness and robust security protocols to ensure your digital currencies are handled with utmost care.
 
