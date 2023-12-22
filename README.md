@@ -1,7 +1,7 @@
 # Dogecoin_Protector v3.0.2
 Secure your crypto assets with our Dogecoin Protector. Activate easily with a Dogecoin donation, generate secure wallet pins/passphrases, and retrieve them. Essential for long term holding cryptocurrency such as Dogecoin.
 
-Experience a seamless and secure way to manage your digital currency needs with our Dogecoin_Protector. This robust application is designed to offer users a reliable and straightforward solution for creating and retrieving pins/passphrases for cold wallet, ensuring your digital assets remain protected.
+Experience a seamless and secure way to manage your digital currency needs with Dogecoin Protector. This robust application is designed to offer users a reliable and straightforward solution for creating and retrieving pins/passphrases for cold wallet, ensuring your digital assets remain protected.
 
 # Key Features:
 
