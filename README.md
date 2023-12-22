@@ -27,7 +27,7 @@ This program is an essential addition to any cryptocurrency user's toolkit, from
 **Get Started**:
 Activating and utilizing the tool is a straightforward process. Simply follow the on-screen instructions upon launch to securely generate or retrieve your wallet pin/passphrase.
 
-Secure your cryptocurrency transactions today with Dogecoin_Protector.
+Secure your cryptocurrency transactions today with Dogecoin Protector.
 
 # Demonstration video
 *https://youtu.be/4tbvd3SXS0Q*
