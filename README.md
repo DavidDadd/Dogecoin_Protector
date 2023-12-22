@@ -1,5 +1,5 @@
 # Dogecoin_Protector v3.0.2
-Secure your crypto assets with our Dogecoin_Protector. Activate easily with a Dogecoin donation, generate secure wallet pins/passphrases, and retrieve them. Essential for long term holding cryptocurrency.
+Secure your crypto assets with our Dogecoin Protector. Activate easily with a Dogecoin donation, generate secure wallet pins/passphrases, and retrieve them. Essential for long term holding cryptocurrency.
 
 Experience a seamless and secure way to manage your digital currency needs with our Dogecoin_Protector. This robust application is designed to offer users a reliable and straightforward solution for creating and retrieving pins/passphrases for cold wallet, ensuring your digital assets remain protected.
 
@@ -44,7 +44,7 @@ The version of Dogecoin Protector in the video is not latest version
 
 **Q2:** Why don't you **open source** your application?
 
-**A2:** We truly appreciate the spirit of the open-source community and the value it brings to the world of software. The decision to keep this application proprietary is rooted in the need to support its continuous development and maintenance. Creating and updating software requires a substantial investment of time, resources, and expertise. By offering the application as a paid product, we ensure that there is a stable foundation to provide ongoing support, implement new features, and keep the software up to date with the latest security standards.
+**A2:** We truly appreciate the spirit of the open-source community and the value it brings to the world of software. The decision to keep this application closed source is rooted in the need to support its continuous development and maintenance. Creating and updating software requires a substantial investment of time, resources, and expertise. By offering the application as a paid product, we ensure that there is a stable foundation to provide ongoing support, implement new features, and keep the software up to date with the latest security standards.
 
 
 **Q3:** Does the application engage in covert cryptocurrency mining, such as Monero, during the pin retrieval process?
@@ -65,7 +65,7 @@ The version of Dogecoin Protector in the video is not latest version
 
 **Q7:** What should I do after I have found all the pins?
 
-**A7:** You can delete chain.txt and result.txt files and generate a new chain.txt file after you are sure that the files are no use to you anymore.
+**A7:** You can delete chain.txt and result.txt files and start a new cycle after you are sure that the files are no use to you anymore.
 
 **Q8:** 所以说你这软件到底是干什么用的?/So, what exactly is the purpose of this software?
 
